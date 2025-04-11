@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../panneau"
+		},
+		{
+			"path": "../../../nike"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nike"
+	}
+}
